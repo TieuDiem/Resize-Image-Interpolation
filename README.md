@@ -1,5 +1,8 @@
 ## Resize-Image-Interpolation
-How image resize function working ?
+* How image resize function working ?
+* Code Resize_Image_Interpolation(google colab link):
+[Resize_Image_Interpolation.ipynb](https://colab.research.google.com/drive/1fEVsGCu6w6g90MmiVlf60UN14qLZZeMy?usp=sharing)&nbsp;
+
 ## Introduce 
 * Resize image in interpolation 
 * Result comparing between code from scratch with opencv package  mode = INTER_NEAREST and mode = INTER_LINEAR
